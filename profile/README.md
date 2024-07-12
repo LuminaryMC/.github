@@ -1,8 +1,8 @@
 <p align="center">
-  <img height="80px" width="80px" src="https://luminarymc.net/assets/img/logo.png" alt="logo">
+  <img height="90px" width="90px" src="https://luminarymc.net/assets/img/logo.png" alt="logo">
   <h3 align="center"><b>LuminaryMC</b></h3>
 
-  <!--<p align="center">Idk some description here</p>-->
+  <p align="center">Very catchy slogan goes here!</p>
 </p>
 
 ## About us
