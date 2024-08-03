@@ -11,6 +11,6 @@ We are a small team of Minecraft enthusiasts who have taken it upon ourselves to
 
 ## Links
 <ul>
-<li><a href="https://luminarymc.net">Website</a><li>
-<li><a href="https://luminarymc.net/dc">Discord</a></li>
+<li><a href="https://luminarymc.net">Website</a>
+<li><a href="https://luminarymc.net/dc">Discord</a>
 </ul>
